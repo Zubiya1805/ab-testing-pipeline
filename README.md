@@ -1,3 +1,4 @@
+![banner](banner-abtesting.svg)
 A/B Testing Pipeline: New Checkout Button Analysis
 
 📌 Project Overview
