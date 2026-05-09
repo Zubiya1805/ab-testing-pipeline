@@ -1,0 +1,25 @@
+<svg width="900" height="140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="140" fill="#0d1117"/>
+
+  <!-- A/B split motif - two columns -->
+  <rect x="0" y="0" width="450" height="140" fill="#58a6ff" opacity="0.03"/>
+  <line x1="450" y1="0" x2="450" y2="140" stroke="#21262d" stroke-width="1" stroke-dasharray="4,4"/>
+  <text x="80" y="28" font-family="'Courier New',monospace" font-size="40" fill="#21262d" font-weight="700" opacity="0.6">A</text>
+  <text x="510" y="28" font-family="'Courier New',monospace" font-size="40" fill="#21262d" font-weight="700" opacity="0.6">B</text>
+
+  <!-- bell curve hint right -->
+  <path d="M 720 110 Q 760 20 800 110" fill="none" stroke="#58a6ff" stroke-width="1" opacity="0.2"/>
+  <path d="M 800 110 Q 840 30 880 110" fill="none" stroke="#f0883e" stroke-width="1" opacity="0.2"/>
+
+  <!-- accent -->
+  <rect x="44" y="30" width="3" height="80" fill="#58a6ff" rx="1"/>
+
+  <text x="62" y="50" font-family="'Courier New',monospace" font-size="10" fill="#58a6ff" letter-spacing="3">02 / STATISTICS &amp; EXPERIMENTATION</text>
+  <text x="60" y="95" font-family="'Courier New',monospace" font-size="38" font-weight="700" fill="#e6edf3" letter-spacing="1">A/B TESTING PIPELINE</text>
+  <text x="62" y="118" font-family="'Courier New',monospace" font-size="11" fill="#8b949e">End-to-end A/B testing · statistical hypothesis testing · checkout impact analysis</text>
+
+  <rect x="62" y="125" width="82" height="12" rx="6" fill="#1f3558"/>
+  <text x="103" y="134" font-family="'Courier New',monospace" font-size="8" fill="#58a6ff" text-anchor="middle">#statistics</text>
+  <rect x="150" y="125" width="80" height="12" rx="6" fill="#1f3558"/>
+  <text x="190" y="134" font-family="'Courier New',monospace" font-size="8" fill="#58a6ff" text-anchor="middle">#jupyter</text>
+</svg>
